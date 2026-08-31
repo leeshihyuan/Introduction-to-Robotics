@@ -12,6 +12,8 @@
 | 助教 | 李天宇、李宇晴 |
 | 日期 | 2026 年 7 月 |
 
+![機器人學導論](https://github.com/leeshihyuan/Introduction-to-Robotics/blob/main/Introduction-to-Robotics_Cover-1.jpg "機器人學導論")
+
 ## 壹、本書介紹（定稿版）
 
 《機器人學導論：機構、感知、控制與具身人工智慧》是一部以台灣工程教育情境為核心的自編大學教科書，回答四個核心問題：機器人的身體如何設計？機器人如何知道自己在哪裡？機器人如何規劃動作並控制身體？機器人如何透過視覺、語言與人工智慧理解世界？
@@ -865,3 +867,6 @@
 
 - **正式書名：** 《機器人學導論：機構、感知、控制與具身人工智慧》
 - **英文書名：** Introduction to Robotics: Mechanisms, Perception, Control and Embodied AI
+
+![機器人學導論](https://github.com/leeshihyuan/Introduction-to-Robotics/blob/main/Introduction-to-Robotics_Cover-2.png "機器人學導論")
+
