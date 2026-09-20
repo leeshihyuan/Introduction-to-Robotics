@@ -12,7 +12,11 @@
 | 助教 | 李天宇、李宇晴 |
 | 日期 | 2026 年 7 月 |
 
-![機器人學導論](https://github.com/leeshihyuan/Introduction-to-Robotics/blob/main/Introduction-to-Robotics_Cover-1.jpg "機器人學導論")
+[Markdown语法](https://markdown.com.cn "最好的markdown教程")
+
+
+
+![機器人學導論_導讀篇_C01版](https://github.com/leeshihyuan/Introduction-to-Robotics/blob/main/%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%AD%B8%E5%B0%8E%E8%AB%96_%E5%B0%8E%E8%AE%80%E7%AF%87_C01%E7%89%88.pdf "機器人學導論_導讀篇_C01版")
 
 ## 壹、本書介紹（定稿版）
 
