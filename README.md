@@ -2,6 +2,8 @@
 
 > 機構、感知、控制與具身人工智慧  
 > *Introduction to Robotics: Mechanisms, Perception, Control and Embodied AI*
+>
+> https://buymeacoffee.com/alexy8
 
 | 項目 | 內容 |
 | --- | --- |
